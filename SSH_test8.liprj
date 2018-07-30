@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="en-za" xml:lang="en-za" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\randonie\Documents\My Translated Projects\SSH_test8.liprjf" SourceControlDatabase="C:\Users\randonie\Documents\My Translated Projects\SSH_test8.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="d9473bb5-124b-4d20-8abd-79e855c93054">
+    <ProjectFile Source="Target/Perforce2.flprj" Target="Target/Perforce2.flprj" />
+</LingoProject>
